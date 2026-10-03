@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "85bd39eefe5c0359e8381845",
+  "owner": "yynhkmfhy",
+  "repo": "page-df867ca5e12f019df6d64dd1",
+  "title": "Rinki云(Rinki)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "df867ca5e12f019df6d64dd1",
+      "a": "Rinki云(Rinki)",
+      "b": "",
+      "entity": "Rinki云(Rinki)",
+      "brand": "Rinki云(Rinki)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "e1339c790ddf19289efa2120d1196b9986e3efb10b635ac91724b0c067c670b9",
+      "content": {
+        "keyword1": "Rinki云(Rinki)",
+        "keyword2": "",
+        "primary_entity": "Rinki云(Rinki)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Rinki云(Rinki)提供稳定机场订阅与 VPN 梯子网络加速服务，支持多端客户端下载，覆盖办公、流媒体与游戏场景，可在官网获取订阅与安装指引。",
+          "AI_DESCRIPTION": "Rinki云(Rinki)提供稳定机场订阅与 VPN 梯子网络加速服务，支持多端客户端下载，覆盖办公、流媒体与游戏场景，可在官网获取订阅与安装指引。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}body{margin:0;background:#F6F3EE;color:#163028;font-family:system-ui,-apple-system,sans-serif;font-size:16px;line-height:1.75}a{color:#1B4332}header{background:#1B4332;color:#F6F3EE;padding:14px 0} .wrap{max-width:1040px;margin:0 auto;padding:0 16px} .brand{font-weight:700;font-size:1.2rem;margin-right:16px;color:#F6F3EE;text-decoration:none}nav{display:flex;flex-wrap:wrap;align-items:center;gap:10px}nav a{color:#E8F5E9;text-decoration:none;font-size:0.95rem}main{padding:24px 0 48px}h1{font-size:1.7rem;line-height:1.35;color:#1B4332;margin:8px 0 12px}h2{font-size:1.35rem;color:#2D6A4F;margin:28px 0 12px;padding-bottom:6px;border-bottom:2px solid #95D5B2}h3{font-size:1.08rem;color:#1B4332;margin:16px 0 8px}.lead{font-size:1.05rem;margin:0 0 16px}.row{display:flex;flex-wrap:wrap;gap:20px;align-items:stretch;margin:20px 0}.row.rev{flex-direction:row-reverse}.col{flex:1 1 280px;background:#FFFDF8;border:1px solid #D8E2DC;border-radius:10px;padding:18px}.muted{color:#3D5C50}.btn{display:inline-block;background:#2D6A4F;color:#fff;text-decoration:none;padding:10px 16px;border-radius:8px;margin:6px 8px 6px 0}.btn.alt{background:#40916C}.plans{display:flex;flex-wrap:wrap;gap:14px}.plan{flex:1 1 240px;background:#FFFDF8;border:1px solid #D8E2DC;border-radius:10px;padding:18px}.plan.hot{border:2px solid #2D6A4F;background:#E8F5E9}.price{font-size:1.4rem;color:#1B4332;font-weight:700}.tag{display:inline-block;background:#2D6A4F;color:#fff;font-size:0.75rem;padding:2px 8px;border-radius:999px;margin-left:6px}ul{padding-left:1.2em}details{background:#FFFDF8;border:1px solid #D8E2DC;border-radius:8px;padding:10px 14px;margin:10px 0}summary{font-weight:600;color:#1B4332}.ad{background:#E9F5EE;border:1px dashed #74C69D;border-radius:8px;padding:14px;margin:24px 0}.links a{margin-right:12px;display:inline-block;margin-bottom:6px}footer{background:#1B4332;color:#E8F5E9;padding:20px 0;font-size:0.9rem}footer a{color:#B7E4C7}@media (max-width:640px){h1{font-size:1.45rem}.row,.row.rev,.plans{flex-direction:column}nav{gap:8px}body{font-size:16px}}</style><header><div class=\"wrap\"><nav><a class=\"brand\" href=\"#\">Rinki云</a><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#clients\">客户端下载</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a><a href=\"#links\">友链</a></nav></div></header><main><div class=\"wrap\"><h1>Rinki云(Rinki) 官方网站：机场订阅与网络加速客户端</h1><p class=\"lead\">Rinki云（Rinki）面向需要稳定跨境访问的个人与团队，提供机场订阅、VPN 梯子网络加速与多平台客户端。在本官网可对照套餐配额、选择加速器并完成订阅导入。</p><div class=\"row\" id=\"intro\"><div class=\"col\"><h2>品牌简介</h2><p>Rinki云是以订阅制交付的网络加速服务。购买套餐后可获得专属订阅地址，在 Clash、Shadowrocket 等客户端中更新节点。线路覆盖香港、日本、新加坡、美国与欧洲；旗舰与团队套餐含 IPLC 专线，适合会议与游戏。</p><p class=\"muted\">Rinki云把流量、同时在线设备数和流媒体能力写进套餐，方便在官网下载客户端后按说明完成配置，而不是依赖含糊宣传。</p></div><div class=\"col\"><h2>核心能力</h2><ul><li>机场订阅自动更新，减少手工维护节点</li><li>Rinki VPN 式分流：国内直连、海外走加速器</li><li>基础流媒体解锁，旗舰版全节点原生解锁</li><li>游戏向 IPLC 优化，改善抖动与丢包</li><li>官网集中提供客户端选择与导入步骤</li></ul><p><a class=\"btn\" href=\"#clients\">前往客户端选择</a><a class=\"btn alt\" href=\"#plans\">查看套餐</a></p></div></div><h2 id=\"plans\">套餐与机场订阅</h2><p>价格以月付为参考，按年付可锁定年费。流量按自然月重置、不结转。支付完成后即可复制订阅链接，导入任意兼容的梯子客户端。</p><div class=\"plans\"><div class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"muted\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p><a class=\"btn\" href=\"#\">官网订阅基础版</a></p></div><div class=\"plan hot\"><h3>旗舰版 <span class=\"tag\">推荐</span></h3><p class=\"price\">¥35/月</p><p class=\"muted\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p><a class=\"btn\" href=\"#\">官网订阅旗舰版</a></p></div><div class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"muted\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p><a class=\"btn\" href=\"#\">官网订阅团队版</a></p></div></div><div class=\"row rev\"><div class=\"col\"><h2>使用场景</h2><p>远程协作时，Rinki云可将会议、文档与代码仓库走加速通道，国内站点保持直连。追剧与直播使用旗舰版原生解锁节点。竞技游戏与主机联机优先 IPLC。差旅时同一订阅可在多台设备切换当地入口，减少公共网络明文风险。</p></div><div class=\"col\"><h3>典型组合</h3><ul><li>个人办公：基础版 + Windows 或 macOS 客户端</li><li>影音娱乐：旗舰版 + 手机或电视盒子加速器</li><li>多人共享：团队版统一订阅，按设备配置分流</li><li>移动办公：同一机场订阅在笔记本与手机间切换</li></ul></div></div><h2 id=\"clients\">客户端选择与官网下载</h2><p>Rinki云不绑定封闭单一应用，而是兼容主流开源与商业加速器。请按系统选择客户端，再导入官网订阅链接。安装包以官方发布说明为准，本页提供选择路径与导入要点。</p><div class=\"row\"><div class=\"col\"><h3>桌面端</h3><p>Windows 可使用 Clash Verge 或 Clash Meta，适合规则分流与系统代理。</p><p>macOS 可使用 ClashX Meta 或 Surge，便于菜单栏切换节点。</p><p>Linux 可使用 mihomo 命令行或图形前端，适合长期挂机。</p><p><a class=\"btn\" href=\"#\">Windows 官网下载</a><a class=\"btn alt\" href=\"#\">macOS 官网下载</a></p></div><div class=\"col\"><h3>移动与路由</h3><p>Android 可使用 Clash Meta，支持分应用代理。</p><p>iOS 可使用 Shadowrocket、Stash 或 Quantumult X（需自备商店渠道）。</p><p>路由器可在 OpenWrt 上配置 homeproxy 等，让家庭设备共用机场订阅。</p><p><a class=\"btn\" href=\"#\">Android 官网下载</a><a class=\"btn alt\" href=\"#\">iOS 配置说明</a></p></div></div><p class=\"muted\">选择客户端时走官方渠道，避免来路不明的改装包。导入后开启自动更新订阅，即可跟随 Rinki云 机场节点变更。</p><h2 id=\"guide\">操作说明</h2><h3>一、获取订阅</h3><p>在官网完成套餐支付后进入用户中心，复制 Clash 通用订阅。不要在公开群组粘贴完整链接，以免流量被盗用。</p><h3>二、安装并导入</h3><p>安装对应客户端，选择从 URL 导入或订阅管理，粘贴链接并命名为 Rinki云。更新成功后会出现香港、东京、洛杉矶等策略组。</p><h3>三、规则与节点</h3><p>推荐规则模式：国内域名直连，国外走代理。视频站点指定解锁节点，游戏主机加入 IPLC 组。某节点超时则改同区域备用线路。</p><h3>四、设备数与安全</h3><p>同时在线台数以套餐为准，超出后新设备可能无法握手。建议开启泄漏保护。团队版可申请定制分流，把办公域名固定到指定出口。</p><h2>节点与加速体验</h2><p>Rinki云维护多区域接入。普通线路适合网页与轻量工具，旗舰 IPLC 用于对延迟敏感的会话。高峰仍可能拥塞，可在客户端查看延迟后手动指定。本页不填写虚构评分，体验取决于您本地网络到入口的质量。</p><ul><li>亚太：香港、日本、新加坡、台湾接入</li><li>美洲：美西、美东，部分 IPLC 回程</li><li>欧洲：伦敦、法兰克福备用</li><li>协议：Trojan、VLESS、Hysteria 等随套餐开放</li></ul><h2 id=\"faq\">常见问题</h2><details><summary>Rinki云 和传统 VPN 有什么区别？</summary><p>Rinki云采用机场订阅：一份链接可同步大量节点并按流量计费。传统单节点 VPN 出口单一、难以分流。您仍可以把 Rinki VPN 客户端当系统代理，但更推荐规则分流以兼顾速度与国内访问。</p></details><details><summary>如何从官网下载并完成第一次连接？</summary><p>打开本页客户端选择，按系统下载安装包。启动后导入用户中心的订阅 URL，更新节点，选择规则模式并开启系统代理。若失败，先排除防火墙干扰并核对系统时间。</p></details><details><summary>基础版、旗舰版和团队版该怎么选？</summary><p>轻度网页且三台设备以内选基础版。需要原生流媒体、游戏 IPLC 或五台设备选旗舰版。工作室、家庭或需要二十台设备、定制路由时选团队版。年付可降低每月成本。</p></details><details><summary>订阅无法更新或提示流量用尽怎么办？</summary><p>检查链接是否完整、客户端是否允许更新。流量用尽会在当月限制加速，次月重置；也可在官网升级套餐。若仅个别节点失败，更换同区域节点即可。</p></details><details><summary>是否支持常见流媒体与会议软件？</summary><p>基础版提供基础解锁，部分片库可能仍需切换区域。旗舰版强调全节点原生流媒体解锁。会议软件建议走稳定 IPLC，并避免全局模式导致国内会议绕路。</p></details><details><summary>设备数超限或怀疑订阅泄露如何处理？</summary><p>在用户中心重置订阅链接，旧链接立即失效。将新链接只保存在自己的客户端。团队版可由客户经理协助划分成员。不要截图分享含令牌的 URL。</p></details><details><summary>如何确认官方身份以及下载是否安全？</summary><p>请通过 Rinki云 官网进入下载与支付说明，核对接入口径、套餐名称与本页是否一致。客户端优先使用 Clash Meta、Shadowrocket 等广泛使用的程序，避免来路不明的一键安装包。</p></details><div class=\"ad\" id=\"ad\"><strong>广告</strong><p>本栏用于品牌合作与合规网络工具的文本展示，例如企业专线咨询与跨境办公方案对接说明。投放沟通请走官网联系渠道，页面不放置弹窗。</p></div><h2 id=\"links\">友情链接</h2><p class=\"links\"><a href=\"#\">Rinki云 官方网站</a><a href=\"#clients\">客户端下载说明</a><a href=\"#plans\">套餐一览</a><a href=\"#guide\">导入指引</a><a href=\"#faq\">常见问题</a><a href=\"#\">合作伙伴入口</a></p><p class=\"muted\">友链以站内锚点与官网入口为主。站点地图已在页面头部 sitemap 中声明，便于检索各栏目。</p></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>© Rinki云(Rinki) 官方网站 · 机场订阅、VPN 梯子网络加速与客户端下载介绍</p><p><a href=\"#\">官网首页</a> · <a href=\"#clients\">官网下载</a> · <a href=\"#faq\">常见问题</a> · <a href=\"#\">网站地图</a></p></div></footer>",
+          "hash": "80bc7f62fe53c0b45d8127697feebc4a03a0ab02b5eba83386cf9003b107652a",
+          "seo": {
+            "title": "Rinki云(Rinki)官网 | VPN 梯子网络加速与机场客户端下载",
+            "keywords": "Rinki云,Rinki,Rinki VPN,Rinki云机场,机场订阅,网络加速,加速器,梯子,客户端下载,官网下载,Clash",
+            "description": "Rinki云(Rinki)提供稳定机场订阅与 VPN 梯子网络加速服务，支持多端客户端下载，覆盖办公、流媒体与游戏场景，可在官网获取订阅与安装指引。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lztclgc.cn",
+    "host": "p-28fbab1718.lztclgc.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "lztclgc.cn",
+      "url": "https://lztclgc.cn/",
+      "label": "桃花源(THYSS)",
+      "apex": "lztclgc.cn",
+      "kind": null,
+      "identity": "qh6b3qjke/page-8f89f19141c87c170a56b96b"
+    },
+    {
+      "host": "bqxzk.cn",
+      "url": "https://bqxzk.cn/",
+      "label": "Rinki云(Rinki)",
+      "apex": "bqxzk.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-734c9a5e456aa8c6e07d5948"
+    },
+    {
+      "host": "fzfyokz.cn",
+      "url": "https://fzfyokz.cn/",
+      "label": "Rinki云(Rinki)",
+      "apex": "fzfyokz.cn",
+      "kind": null,
+      "identity": "akmahkpc/page-4aeba59b082cfc217a79536b"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "c73c1f7e1ac3431dc00fe30e836ec03d8ec7276046028073ad292ae4b9065ff6",
+    "sitemap.xml": "c76ab93786451b72212a03255a9cf3dc90c4c584022a701270b394c510415c65",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "63c94ed4203fd94048282b2c9886f04b1c0b83c92ab0a7205ce43a373626ea53",
+    "robots.txt": "1c994dc2ecf6568e636604aed139dfc98a490c467283959ae8b09ea3e33a7d02",
+    "4e2aeeab9132fa2687ecf95526731451.txt": "842b3775d912b07f038cdcbb67fc60a6d2f002162282c2823daf973755648db6"
+  },
+  "revision": "d687555791e12e6ba82c5c8f7e5e198daf1ff406ea401143aa9e8f322690cbf9"
+}
